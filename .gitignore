@@ -18,3 +18,5 @@ helper.txt
 env/*
 app/ml_models/weights
 app/utils/__pycache__
+.venv/
+.venv/
